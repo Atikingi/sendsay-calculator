@@ -1,13 +1,13 @@
 Sendsay calculator
 
-#Install and run
+##Install and run
 npm i
 npm run start
 
-#Deploy
+##Deploy
 
 https://atikingi.github.io/sendsay-calculator/
 
-#Stack
+##Stack
 typescript, RTK, styled-components
 
